@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 import numpy as np
 from skimage.filters import threshold_li
